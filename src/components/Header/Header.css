@@ -1,0 +1,19 @@
+.title {
+  text-transform: uppercase;
+  font-size: 4vw;
+  cursor: pointer;
+  color: rgb(18, 18, 86);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.divider {
+  margin: 10px;
+  width: 100%;
+  background-color: grey;
+}
